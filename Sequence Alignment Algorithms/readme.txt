@@ -1,0 +1,1 @@
+This code implements the Smith-Waterman and Needleman-Wunsch algorithms for sequence alignment using dynamic programming. We use an affine gap penalty and allow for either global ends-free or local alignment (indicated in the .input file).

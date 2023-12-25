@@ -1,0 +1,3 @@
+We implement a fragment assembly algorithm for ab initio protein structure prediction. We model our approach after an early version of the Rosetta protein folding algorithm, which uses a Monte Carlo simulation with simulated annealing to iteratively assemble fragments from known protein structures into a novel structure that matches the input sequence. We also use the Rosetta 'Score3' centroid energy function.
+
+Provided code: contact_map.py, get_lowRMS_frags.py, __init__ in Protein.py, and utils.py

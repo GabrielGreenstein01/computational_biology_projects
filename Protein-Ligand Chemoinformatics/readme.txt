@@ -1,0 +1,2 @@
+This code compares proteins and ligands that bind to them and builds a network connecting the proteins by the similarity of their ligand sets. We first generate the pairwise Tanimoto similarity scores for all pairs of drugs and document which drug pairs are known to share a target. We also include code that generates a bootstrap p-value for the comparison of two proteins. We use this on a subset of proteins to generate a network where nodes are proteins and edges are drawn between pairs for which the bootstrap p-value is <= 0.05. 
+

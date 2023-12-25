@@ -1,0 +1,1 @@
+We test the time-reversibility of the Velocity Verlet numerical algorithm against Euler's method on the protein 2F4K using OpenMM. For more information, look at "Derivation and Analysis.pdf".
